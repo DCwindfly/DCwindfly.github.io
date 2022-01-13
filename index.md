@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/DC202011/note.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+bcf these all written by github_pages,I still dont konw how to put my blog here
 
 这些东西都是github pages自己生成的，我目前还不清楚怎么将post放在这里 --windfly
 
