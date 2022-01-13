@@ -6,6 +6,8 @@ bcf these all written by github_pages,I still dont konw how to put my blog here
 
 这些东西都是github pages自己生成的，我目前还不清楚怎么将post放在这里 --windfly
 
+https://jekyllrb.com/
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
