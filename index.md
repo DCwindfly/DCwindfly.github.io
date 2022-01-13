@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/DC202011/note.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+这些东西都是github pages自己生成的，我目前还不清楚怎么将post放在这里 --windfly
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
