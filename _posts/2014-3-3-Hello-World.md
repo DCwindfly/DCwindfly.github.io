@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Windfly
+title: 杜同学
 ---
 
-Next you can update your site name, avatar and other options using11111你你你
+点击下面GitHub图标进入主页
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-
+谢谢喵!
 
 
