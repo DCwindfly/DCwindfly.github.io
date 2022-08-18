@@ -1,11 +1,12 @@
-
 ---
 layout: post
-title: You're up and running!
+title: Windfly
 ---
 
-你好?!
+Next you can update your site name, avatar and other options using11111你你你
 
-![_config.yml]({{ site.baseurl }}/images/pmask.png)
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+
 
 
