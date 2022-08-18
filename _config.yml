@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: 杜同学
+name: D.C.windfly
 
 # Short bio or description (displayed in the header)
 description: with no function ,just for fun
@@ -21,19 +21,20 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github: barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
-  rss: # 
-  twitter: twitter
-  stackoverflow: # 1111
-  youtube: # 1212
-  googleplus: # 1111
+  rss: # just type anything here for a working RSS icon
+  twitter: jekyllrb
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:discraption
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -83,4 +84,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
 
