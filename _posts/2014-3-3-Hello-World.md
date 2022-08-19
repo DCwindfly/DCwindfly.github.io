@@ -1,6 +1,6 @@
 ---
 layout: post
-title: That person who helps others simply because it should or must be done, and because it is the right thing to do, is indeed without a doubt, a real superhero
+title: Life is ever completely with challenges
 ---
 
 点击下面GitHub图标进入主页
